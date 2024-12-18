@@ -5,7 +5,7 @@ from typing import Optional
 from datetime import datetime, timedelta
 
 # Configuration
-SECRET_KEY = "your_secret_key_here"
+SECRET_KEY = "a9c4e7f8g2h6k9l1p3q8r5t7w0z3x4v6n8m5b7y1j2o4u6"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
